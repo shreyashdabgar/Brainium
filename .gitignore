@@ -1,0 +1,5 @@
+# add file that you dont want to push in git 
+.detailed_architecture
+.artifacts
+venv311/
+Lib/
