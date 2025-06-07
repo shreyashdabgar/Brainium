@@ -51,7 +51,7 @@ class Dataingestion:
 
             return(
                 self.dataingestioconfig.train_file_path,
-                self.dataingestioconfig.test_file_path
+                self.dataingestioconfig.test_file_path,
             )
         except Exception as e:
             raise CustomException(e, sys)

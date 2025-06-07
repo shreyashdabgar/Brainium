@@ -3,3 +3,4 @@
 .artifacts
 venv311/
 Lib/
+Churn_Modelling.csv

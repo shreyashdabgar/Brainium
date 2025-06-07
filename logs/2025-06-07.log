@@ -1,0 +1,14 @@
+2025-06-07 20:48:35,781 - root - INFO - data ingestion exicution is started - 10
+2025-06-07 20:48:35,781 - root - INFO - Data ingestion is Start - 28
+2025-06-07 20:48:35,828 - root - INFO - Train and Test data is cerated and save in the artifacts folder - 48
+2025-06-07 20:48:35,859 - root - INFO - data ingestion excution is completed - 13
+2025-06-07 20:48:35,860 - root - INFO - Datavaliadtion execution precess is Started - 17
+2025-06-07 20:48:35,860 - root - INFO - Data validation is started - 62
+2025-06-07 20:48:35,892 - root - INFO - Data is read from the its source  - 70
+2025-06-07 20:48:35,898 - root - INFO - Data is divided into x_train, y_train, x_test, y_test - 81
+2025-06-07 20:48:35,908 - root - INFO - feture engineering started - 34
+2025-06-07 20:48:35,909 - root - INFO - Pipeline building for feture engineering started - 35
+2025-06-07 20:48:35,909 - root - INFO - Pipeline has build succesfully - 50
+2025-06-07 20:48:35,930 - root - INFO - Combining x_train and x_test with y_train and y_test - 97
+2025-06-07 20:48:35,934 - root - INFO - Data validation is done - 108
+2025-06-07 20:48:35,935 - root - INFO - Datavalidation execution is Completed - 20
