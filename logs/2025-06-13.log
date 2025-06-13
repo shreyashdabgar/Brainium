@@ -1,0 +1,20 @@
+2025-06-13 19:13:51,808 - root - INFO - data ingestion exicution is started - 11
+2025-06-13 19:13:51,809 - root - INFO - Data ingestion is Start - 28
+2025-06-13 19:13:52,039 - root - INFO - Train and Test data is cerated and save in the artifacts folder - 48
+2025-06-13 19:13:52,080 - root - INFO - data ingestion excution is completed - 14
+2025-06-13 19:13:52,081 - root - INFO - Datavaliadtion execution precess is Started - 18
+2025-06-13 19:13:52,081 - root - INFO - Data validation is started - 62
+2025-06-13 19:13:52,286 - root - INFO - Data is read from the its source  - 70
+2025-06-13 19:13:52,306 - root - INFO - Data is divided into x_train, y_train, x_test, y_test - 81
+2025-06-13 19:13:52,307 - root - INFO - feture engineering started - 34
+2025-06-13 19:13:52,307 - root - INFO - Pipeline building for feture engineering started - 35
+2025-06-13 19:13:52,307 - root - INFO - Pipeline has build succesfully - 50
+2025-06-13 19:13:52,321 - root - INFO - Combining x_train and x_test with y_train and y_test - 97
+2025-06-13 19:13:52,323 - root - INFO - Data validation is done - 108
+2025-06-13 19:13:52,325 - root - INFO - Datavalidation execution is Completed - 21
+2025-06-13 19:13:52,325 - root - INFO - Model Training is Start - 23
+2025-06-13 19:13:52,325 - root - INFO - Model Evelution is Started - 28
+2025-06-13 19:13:52,561 - root - INFO - tensorboard startup - 45
+2025-06-13 19:13:52,561 - root - INFO - Model Training is start - 52
+2025-06-13 19:14:14,943 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.  - 83
+2025-06-13 19:14:15,000 - root - INFO - Model Training is Done - 26
